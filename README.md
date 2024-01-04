@@ -2,7 +2,7 @@
 GenomeFi Token Contract
 
 <p align="center">
-  <img src="assets/logo/genomefi.png" width="200" alt="genomefi" />
+  <img src="assets/logo/genomefi_logo.png" width="200" alt="genomefi" />
 </p>
 
-GenomeFi is a Polygon chain Token Contract
+GenomeFi contract is a Polygon chain base Token Contract
