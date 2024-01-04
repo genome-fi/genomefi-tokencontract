@@ -1,0 +1,13 @@
+.DS_Store
+*.swp
+*/**/*un~
+*un~
+*/**/.DS_Store
+/coverage
+/tmp
+.idea/
+.vscode/
+.git
+dist/*
+.env
+out/*
